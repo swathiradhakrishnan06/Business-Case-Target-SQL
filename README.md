@@ -65,14 +65,14 @@ As a **Data Analyst/Scientist** at Target, your task is to analyze the dataset t
 - Order count based on number of payment installments.
 
 ### 🛠️ Tech Stack
-SQL for querying and analysis
-CSV files as the data source
+- SQL for querying and analysis
+- CSV files as the data source
 
 ### 📈 Outcome
 By executing the above analyses, the project aims to:
 
-Understand customer behavior and logistics performance.
+- Understand customer behavior and logistics performance.
 
-Reveal key patterns in order timing, pricing, and delivery.
+- Reveal key patterns in order timing, pricing, and delivery.
 
-Identify areas for operational improvement and customer satisfaction enhancement in Brazil’s market.
+- dentify areas for operational improvement and customer satisfaction enhancement in Brazil’s market.
